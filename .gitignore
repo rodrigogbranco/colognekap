@@ -1,0 +1,4 @@
+**/results/staticdynamic/*.xml
+**/results/staticdynamic/*.log
+*.log
+~lock*
